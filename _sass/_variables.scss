@@ -6,17 +6,17 @@
 
 $white:    #fff !default;
 $gray-100: #EBEBEB !default;
-$gray-200: #4E5D6C !default;
+$gray-200: #f0f3f5 !default;
 $gray-300: #dee2e6 !default;
 $gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #868e96 !default;
-$gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
+$gray-500: #727272 !default;
+$gray-600: #555555 !default;
+$gray-700: #4b4744 !default;
+$gray-800: #3d3733 !default;
+$gray-900: #332c28 !default;
 $black:    #000 !default;
 
-$blue:    #dd563a !default;
+$blue:    #332c28 !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
@@ -40,8 +40,8 @@ $yiq-contrasted-threshold:  185 !default;
 
 // Body
 
-$body-bg:                   #2B3E50 !default;
-$body-color:                $gray-100 !default;
+$body-bg:                   #fbfbfb !default;
+$body-color:                $gray-900 !default;
 
 // Components
 

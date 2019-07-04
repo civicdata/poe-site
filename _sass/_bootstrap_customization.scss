@@ -270,14 +270,21 @@ label,
 }
 
 //carousel STYLES
+
 .carousel {
-  background: #FAFAFA;
+  background: $body-bg;
 }
 
-.carousel-cell {
-  width: 66%;
-  height: 200px;
-  margin-right: 10px;
-  background: #8C8;
-  border-radius: 5px;
+//Forces image to be 100% width and not max width of 100%
+
+.carousel-item .img-fluid {
+  width:100%;
+}
+
+/*
+anchors are inline so you need to make them block to go full width
+*/
+.carousel-item a {
+  display: block;
+  width:100%;
 }

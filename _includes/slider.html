@@ -1,27 +1,30 @@
   <div class="container-fluid">
-      <div class="row">
-          <div class="main-carousel" data-flickity='{ "freeScroll": "true", "contain": true }'>
-              <div class="carousel-cell">
-                   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
-                </div>
- <div class="carousel-cell">
-   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
- </div>
- <div class="carousel-cell">
-   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
- </div>
- <div class="carousel-cell">
-   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" alt="cat nose" />
- </div>
- <div class="carousel-cell">
-   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" alt="contrail" />
- </div>
- <div class="carousel-cell">
-   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" alt="golden hour" />
- </div>
- <div class="carousel-cell">
-   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" alt="flight formation" />
- </div>
-         </div>
+      <div class="row justify-content-center">
+          <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="http://lorempixel.com/1000/500/" alt="First slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="http://lorempixel.com/1000/500/" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="http://lorempixel.com/1000/500/" alt="Third slide">
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
     </div>
-  </div>
+</div>

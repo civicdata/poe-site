@@ -52,18 +52,18 @@ $border-radius-sm:            0 !default;
 // Fonts
 $font-family-sans-serif:      "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
-$text-muted:                  rgba(255,255,255,.4) !default;
+$text-muted:                  rgba(75,75,75,.4) !default;
 
 // Tables
 
-$table-accent-bg:             rgba($white,.05) !default;
-$table-hover-bg:              rgba($white,.075) !default;
+$table-accent-bg:             rgba($dark,.05) !default;
+$table-hover-bg:              rgba($dark,.075) !default;
 
 $table-border-color:          rgba($black,.15) !default;
 
-$table-head-bg:               $light !default;
+$table-head-bg:               $dark !default;
 
-$table-dark-bg:               $light !default;
+$table-dark-bg:               $dark !default;
 $table-dark-border-color:     $gray-200 !default;
 $table-dark-color:            $body-bg !default;
 
@@ -102,11 +102,11 @@ $navbar-dark-hover-color:           $white !default;
 
 // Pagination
 
-$pagination-color:                  $white !default;
+$pagination-color:                  $dark !default;
 $pagination-bg:                     $gray-200 !default;
 $pagination-border-color:           transparent !default;
 
-$pagination-hover-color:            $white !default;
+$pagination-hover-color:            $dark !default;
 $pagination-hover-bg:               $nav-link-disabled-color !default;
 $pagination-hover-border-color:     $pagination-border-color !default;
 
@@ -140,8 +140,8 @@ $list-group-hover-bg:               $nav-link-disabled-color !default;
 
 $list-group-disabled-color:         $nav-link-disabled-color !default;
 
-$list-group-action-color:           $white !default;
-$list-group-action-hover-color:     $white !default;
+$list-group-action-color:           $dark !default;
+$list-group-action-hover-color:     $dark !default;
 
 // Breadcrumbs
 

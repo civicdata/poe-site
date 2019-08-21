@@ -95,6 +95,55 @@ layout: home
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
+            <a href ="https://podcasts.apple.com/au/podcast/main-event-on-politics-lets-talk-redlining/id1254874454?i=1000432660269" target="_blank"><img class="bd-placeholder-img card-img-top" width="100%" height="200" src="assets/images/redlining-mainevent.png"/></a>
+            <div class="card-body">
+              <h5 class="card-title">Main Event on Politics: Lets Talk Redlining</h5>
+              <p class="card-text mt-3">Main Event Sports Podcast</p><p class="card-text">I am joined by Joshua Poe and we discuss what is redlining, how are we still impacted by it today and what can we do about it...</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group mt-4">
+                 <a href ="https://podcasts.apple.com/au/podcast/main-event-on-politics-lets-talk-redlining/id1254874454?i=1000432660269" target="_blank"><button type="button" class="btn btn-med btn-outline-primary">Play Episode</button></a>
+                </div>
+                <small class="text-muted">9 mins</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <a href ="https://www.spreaker.com/user/10014431/redlining-louisville-w-josh-poe" target="_blank"><img class="bd-placeholder-img card-img-top" width="100%" height="200" src="assets/images/redlining-quantify.png"/></a>
+            <div class="card-body">
+              <h5 class="card-title">Quantify Louisville Podcast</h5>
+              <p class="card-text mt-3">Michael and Eric interview Josh Poe - independent researcher and activist (and map-builder extraordinaire) about his work on the award-winning Redlining Louisville project. We get into the history of redlining, and the long-last economic effects it has had on our city...</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                 <a href ="https://www.spreaker.com/user/10014431/redlining-louisville-w-josh-poe" target="_blank"><button type="button" class="btn btn-med btn-outline-primary">Play Episode</button></a>
+                </div>
+                <small class="text-muted">9 mins</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <iframe class="bd-placeholder-img card-img-top" width="100%" height="200" src="https://www.youtube.com/embed/iJtdTbuVGcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-body">
+              <h5 class="card-title">Tonetalks: Color of Law critique</h5>
+              <p class="card-text mt-3">"Attorney Antonio Moore talks with award winning urban planner Joshua Poe about his redlining finding, and his view of the book Color of Law by Richard Rothstein.</p>
+              <p class="card-text">Hope y'all enjoy this!!"</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group mt-4">
+                 <a href ="https://www.youtube.com/watch?v=iJtdTbuVGcw" target="_blank"><button type="button" class="btn btn-med btn-outline-primary">Watch Video</button></a>
+                </div>
+                <small class="text-muted">39 mins</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
             <a href ="https://www.spreaker.com/user/10014431/redlining-louisville-w-josh-poe" target="_blank"><img class="bd-placeholder-img card-img-top" width="100%" height="200" src="assets/images/redlining-quantify.png"/></a>
             <div class="card-body">
               <h5 class="card-title">Quantify Louisville Podcast</h5>
